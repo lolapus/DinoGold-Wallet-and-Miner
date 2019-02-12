@@ -15,4 +15,4 @@ server=1
 
 Save the file and close it. Go back to the folder and run the dinogold-qt.exe file, then after the wallet is synced with the network(This 
 can take time depending on the speed of the connection) run the mine.bat file to start mining Dino Gold!
-Visit https://sites.google.com/view/dino-gold/home for more info.
+Visit https://sites.google.com/view/dino-gold/home for more info!
