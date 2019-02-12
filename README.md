@@ -1,5 +1,5 @@
 # DinoGold Setup
-When you download these files first run the dinogold-qt.exe file to start the wallet. Confirm that in the bottom right corner of the window
+Download the files by clicking the Dino Gold.zip folder and clicking the download button. When you download these files first run the dinogold-qt.exe file to start the wallet. Confirm that in the bottom right corner of the window
 there is a connection symbol. Click file then exit and go to this file path C:\Users\(Your Username EX:john)\appdata(this is a hidden 
 folder so on windows at the top of the file explorer window click view and then on the right check the hidden items)\Roaming\DinoGold. 
 Confirm that dinogold.confis there if not create a text file and then open and then file save as, Click the dropdown at the bottom of the 
